@@ -1,7 +1,4 @@
-# Cuaderno
+# MODELO CAPM
 
-##Subtitulo
-
-###Sub subtitulo
-
-En este documento debo explicar de que se trata el codigo
+Se trata de un ejercicio para estimar la Beta del modelo CAPM.
+Se trabajan con datos públicos obtenidos de yahoofinance.
